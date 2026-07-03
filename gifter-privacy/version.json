@@ -1,6 +1,6 @@
 {
-  "version": "3.0.2",
-  "apkUrl": "https://expo.dev/artifacts/eas/t-ZdIknvK-7OfNCyadifKbmVOxiJrGBgF9gMrpda4q8.apk",
-  "notes": "New: Back button on all screens, dark mode fixes, 30+ festival dates, FAQs, Quick Find moved to bottom, Wishlist icon updated.",
+  "version": "3.2.0",
+  "apkUrl": "https://play.google.com/store/apps/details?id=com.gifter.app",
+  "notes": "🎭 Experience gift links (BookMyShow, Insider, Thrillophilia), 👍 Rate ideas & refine separately, 🔥 Steal Deals improvements, 🐛 Crash & UX fixes.",
   "force": false
 }
